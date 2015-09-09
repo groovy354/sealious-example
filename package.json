@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sealious": "^0.5.7",
+    "sealious": "^0.5.9",
     "sealious-www-server": "^0.4.3"
   }
 }
